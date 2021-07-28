@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family:'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 nav {
@@ -31,11 +31,10 @@ nav {
   font-size: 20px;
   line-height: 28px;
   font-weight: 400;
-
 }
 
 .bg-light {
-  color: #172B4D;
+  color: #172b4d;
   padding: 5px;
 }
 
@@ -49,18 +48,18 @@ nav {
   text-align: center;
   font-weight: bold;
   margin-bottom: 50px;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .card-title {
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .skills-card {
   margin: 1rem 0;
   text-align: center;
-  width:369px ;
-  height:352px;
+  width: 369px;
+  height: 352px;
 }
 
 .skills-card .row {
@@ -81,12 +80,12 @@ nav {
   font-weight: 600;
   font-size: 12px;
   line-height: 16px;
-  color: #36B37E;
+  color: #36b37e;
 }
 
 .form h3 {
-  font-weight:700;
+  font-weight: 700;
   font-size: 20px;
   line-height: 35px;
-  color: #172B4D;
+  color: #172b4d;
 }
