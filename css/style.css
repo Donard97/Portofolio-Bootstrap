@@ -4,6 +4,11 @@ body {
   font-family:'Inter', sans-serif;
 }
 
+nav {
+  color: #172b4d;
+  font-weight: 600;
+}
+
 .container {
   margin-top: 6rem;
 }
@@ -49,4 +54,32 @@ body {
 
 .card-title {
   color: #172B4D;
+}
+
+.skills-card {
+  margin: 5rem 0;
+  text-align: center;
+  width:369px ;
+  height:352px;
+}
+
+.skills-card .row {
+  margin-top: 3rem;
+}
+
+.skills-card .card-body h4 {
+  color: #344563;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.skills-card .card-body .badge {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  color: #36B37E;
 }
