@@ -28,3 +28,26 @@ body {
   font-weight: 400;
 
 }
+
+.bg-light {
+  color: #172B4D;
+  padding: 5px;
+}
+
+.card {
+  background-image: url(/images/card-background.png);
+}
+
+.container h2 {
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  font-weight: bold; 
+  margin-bottom: 50px; 
+  color: #172B4D;
+}
+
+.card-title {
+  color: #172B4D;
+}
+
