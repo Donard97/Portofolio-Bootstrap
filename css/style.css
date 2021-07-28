@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: font-family: 'Inter', sans-serif;
+}
+
+.container {
+  margin-top: 6rem;
+}
+
+.container h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  color: #172b4d;
+}
+
+.container h1 span {
+  color: #36b37e;
+}
+
+.container p {
+  color: #172b4d;
+  text-align: center;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+
+}
