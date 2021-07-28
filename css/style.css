@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: font-family: 'Inter', sans-serif;
+  font-family:'Inter', sans-serif;
 }
 
 .container {
@@ -42,12 +42,11 @@ body {
   font-size: 40px;
   line-height: 52px;
   text-align: center;
-  font-weight: bold; 
-  margin-bottom: 50px; 
+  font-weight: bold;
+  margin-bottom: 50px;
   color: #172B4D;
 }
 
 .card-title {
   color: #172B4D;
 }
-
