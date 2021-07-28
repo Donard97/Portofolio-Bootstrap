@@ -57,7 +57,7 @@ nav {
 }
 
 .skills-card {
-  margin: 5rem 0;
+  margin: 1rem 0;
   text-align: center;
   width:369px ;
   height:352px;
@@ -82,4 +82,11 @@ nav {
   font-size: 12px;
   line-height: 16px;
   color: #36B37E;
+}
+
+.container .p-form {
+  font-weight:700;
+  font-size: 30px;
+  line-height: 52px;
+  color: #172B4D;
 }
